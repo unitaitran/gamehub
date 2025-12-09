@@ -1,0 +1,7 @@
+# Bỏ qua toàn bộ thư mục __pycache__ ở mọi cấp
+__pycache__/
+
+# Bỏ qua file auth.py ở mọi nơi trong dự án
+**/auth.py
+
+src/model/trained_models.pkl
